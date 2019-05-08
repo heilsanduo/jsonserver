@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "name": "xiaomao",
+      "phone": "123-234-234",
+      "email": "Emily@gmail.com",
+      "graduationschool": "sss",
+      "profession": "ss",
+      "id": 3
+    },
+    {
+      "name": "Elyse",
+      "email": "Elyse@gmail.com",
+      "phone": "123-2345-2356",
+      "id": 4,
+      "age": 30,
+      "companyId": 3
+    },
+    {
+      "name": "heil",
+      "phone": "13232323232",
+      "email": "2249541472@qq.com",
+      "education": "22",
+      "graduationschool": "22",
+      "profession": "22",
+      "profile": "22",
+      "id": 6
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "description": "Apple is good!"
+    },
+    {
+      "id": 2,
+      "name": "Microsoft",
+      "description": "Microsoft is good!"
+    },
+    {
+      "id": 3,
+      "name": "Google",
+      "description": "Google is good!"
+    }
+  ]
+}
